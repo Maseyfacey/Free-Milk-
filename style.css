@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  background-color: #fff3e0;
+  font-family: "Comic Sans MS", sans-serif;
+}
+
+img {
+  width: 300px;
+  cursor: pointer;
+  transition: transform 0.1s;
+}
+
+img:active {
+  transform: scale(0.95);
+}
